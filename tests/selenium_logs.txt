@@ -1,0 +1,144 @@
+2025-03-19 16:37:53,304 - INFO - Chrome Driver Launched Successfully
+2025-03-19 16:37:55,372 - INFO - \u2705 Test 1: Homepage Loaded Successfully
+2025-03-19 16:38:00,991 - INFO - \u2705 Test 2: Book Search Working (Screenshot saved: search_result.png)
+2025-03-19 16:38:02,108 - INFO - \u2705 Test 3: Book borrowed successfully!
+2025-03-19 16:38:04,425 - INFO - \u2705 Test 4: Borrowed Books Page Loaded
+2025-03-19 16:38:05,760 - INFO - \u2705 Test 5: Book returned successfully!
+2025-03-19 16:38:07,942 - INFO - \u2705 Test 6: Due Date Alert Triggered
+2025-03-19 16:38:07,952 - INFO - \u2705 Page Source Saved Successfully
+2025-03-19 16:38:10,319 - INFO - \u2705 Browser Closed Successfully
+2025-03-19 16:41:49,001 - INFO - Chrome Driver Launched Successfully
+2025-03-19 16:41:52,266 - ERROR - \u274c Test 1 Failed: Alert Text: \u2705 Homepage Loaded Successfully!
+Message: unexpected alert open: {Alert text : \u2705 Homepage Loaded Successfully!}
+  (Session info: chrome=134.0.6998.89)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7E3B5FE45+26629]
+	(No symbol) [0x00007FF7E3AC6010]
+	(No symbol) [0x00007FF7E395931A]
+	(No symbol) [0x00007FF7E3A00E24]
+	(No symbol) [0x00007FF7E39D7883]
+	(No symbol) [0x00007FF7E39A0550]
+	(No symbol) [0x00007FF7E39A1803]
+	GetHandleVerifier [0x00007FF7E3EB72BD+3529853]
+	GetHandleVerifier [0x00007FF7E3ECDA22+3621858]
+	GetHandleVerifier [0x00007FF7E3EC24D3+3575443]
+	GetHandleVerifier [0x00007FF7E3C2B77A+860474]
+	(No symbol) [0x00007FF7E3AD088F]
+	(No symbol) [0x00007FF7E3ACCBC4]
+	(No symbol) [0x00007FF7E3ACCD66]
+	(No symbol) [0x00007FF7E3ABC2C9]
+	BaseThreadInitThunk [0x00007FF85D67259D+29]
+	RtlUserThreadStart [0x00007FF85E60AF38+40]
+
+2025-03-19 16:41:59,162 - ERROR - \u274c Test 2 Failed: Alert Text: \u2705 Book Search Completed! Check Results.
+Message: unexpected alert open: {Alert text : \u2705 Book Search Completed! Check Results.}
+  (Session info: chrome=134.0.6998.89)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7E3B5FE45+26629]
+	(No symbol) [0x00007FF7E3AC6010]
+	(No symbol) [0x00007FF7E395931A]
+	(No symbol) [0x00007FF7E3A00E24]
+	(No symbol) [0x00007FF7E39D7883]
+	(No symbol) [0x00007FF7E39A0550]
+	(No symbol) [0x00007FF7E39A1803]
+	GetHandleVerifier [0x00007FF7E3EB72BD+3529853]
+	GetHandleVerifier [0x00007FF7E3ECDA22+3621858]
+	GetHandleVerifier [0x00007FF7E3EC24D3+3575443]
+	GetHandleVerifier [0x00007FF7E3C2B77A+860474]
+	(No symbol) [0x00007FF7E3AD088F]
+	(No symbol) [0x00007FF7E3ACCBC4]
+	(No symbol) [0x00007FF7E3ACCD66]
+	(No symbol) [0x00007FF7E3ABC2C9]
+	BaseThreadInitThunk [0x00007FF85D67259D+29]
+	RtlUserThreadStart [0x00007FF85E60AF38+40]
+
+2025-03-19 16:42:00,564 - ERROR - \u274c Test 3 Failed: Alert Text: Book borrowed successfully!
+Message: unexpected alert open: {Alert text : Book borrowed successfully!}
+  (Session info: chrome=134.0.6998.89)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7E3B5FE45+26629]
+	(No symbol) [0x00007FF7E3AC6010]
+	(No symbol) [0x00007FF7E395931A]
+	(No symbol) [0x00007FF7E3A00E24]
+	(No symbol) [0x00007FF7E39D7883]
+	(No symbol) [0x00007FF7E39A0550]
+	(No symbol) [0x00007FF7E39A1803]
+	GetHandleVerifier [0x00007FF7E3EB72BD+3529853]
+	GetHandleVerifier [0x00007FF7E3ECDA22+3621858]
+	GetHandleVerifier [0x00007FF7E3EC24D3+3575443]
+	GetHandleVerifier [0x00007FF7E3C2B77A+860474]
+	(No symbol) [0x00007FF7E3AD088F]
+	(No symbol) [0x00007FF7E3ACCBC4]
+	(No symbol) [0x00007FF7E3ACCD66]
+	(No symbol) [0x00007FF7E3ABC2C9]
+	BaseThreadInitThunk [0x00007FF85D67259D+29]
+	RtlUserThreadStart [0x00007FF85E60AF38+40]
+
+2025-03-19 16:42:03,945 - ERROR - \u274c Test 4 Failed: Alert Text: \u2705 Borrowed Books Page Loaded Successfully!
+Message: unexpected alert open: {Alert text : \u2705 Borrowed Books Page Loaded Successfully!}
+  (Session info: chrome=134.0.6998.89)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7E3B5FE45+26629]
+	(No symbol) [0x00007FF7E3AC6010]
+	(No symbol) [0x00007FF7E395931A]
+	(No symbol) [0x00007FF7E3A00E24]
+	(No symbol) [0x00007FF7E39D7883]
+	(No symbol) [0x00007FF7E39A0550]
+	(No symbol) [0x00007FF7E39A1803]
+	GetHandleVerifier [0x00007FF7E3EB72BD+3529853]
+	GetHandleVerifier [0x00007FF7E3ECDA22+3621858]
+	GetHandleVerifier [0x00007FF7E3EC24D3+3575443]
+	GetHandleVerifier [0x00007FF7E3C2B77A+860474]
+	(No symbol) [0x00007FF7E3AD088F]
+	(No symbol) [0x00007FF7E3ACCBC4]
+	(No symbol) [0x00007FF7E3ACCD66]
+	(No symbol) [0x00007FF7E3ABC2C9]
+	BaseThreadInitThunk [0x00007FF85D67259D+29]
+	RtlUserThreadStart [0x00007FF85E60AF38+40]
+
+2025-03-19 16:42:05,119 - ERROR - \u274c Test 5 Failed: Alert Text: Book returned successfully!
+Message: unexpected alert open: {Alert text : Book returned successfully!}
+  (Session info: chrome=134.0.6998.89)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7E3B5FE45+26629]
+	(No symbol) [0x00007FF7E3AC6010]
+	(No symbol) [0x00007FF7E395931A]
+	(No symbol) [0x00007FF7E3A00E24]
+	(No symbol) [0x00007FF7E39D7883]
+	(No symbol) [0x00007FF7E39A0550]
+	(No symbol) [0x00007FF7E39A1803]
+	GetHandleVerifier [0x00007FF7E3EB72BD+3529853]
+	GetHandleVerifier [0x00007FF7E3ECDA22+3621858]
+	GetHandleVerifier [0x00007FF7E3EC24D3+3575443]
+	GetHandleVerifier [0x00007FF7E3C2B77A+860474]
+	(No symbol) [0x00007FF7E3AD088F]
+	(No symbol) [0x00007FF7E3ACCBC4]
+	(No symbol) [0x00007FF7E3ACCD66]
+	(No symbol) [0x00007FF7E3ABC2C9]
+	BaseThreadInitThunk [0x00007FF85D67259D+29]
+	RtlUserThreadStart [0x00007FF85E60AF38+40]
+
+2025-03-19 16:42:08,357 - ERROR - \u274c Test 6 Failed: Alert Text: \u26a0\ufe0f Due Date Alert Triggered! Please Return Book.
+Message: unexpected alert open: {Alert text : \u26a0\ufe0f Due Date Alert Triggered! Please Return Book.}
+  (Session info: chrome=134.0.6998.89)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7E3B5FE45+26629]
+	(No symbol) [0x00007FF7E3AC6010]
+	(No symbol) [0x00007FF7E395931A]
+	(No symbol) [0x00007FF7E3A00E24]
+	(No symbol) [0x00007FF7E39D7883]
+	(No symbol) [0x00007FF7E39A0550]
+	(No symbol) [0x00007FF7E39A1803]
+	GetHandleVerifier [0x00007FF7E3EB72BD+3529853]
+	GetHandleVerifier [0x00007FF7E3ECDA22+3621858]
+	GetHandleVerifier [0x00007FF7E3EC24D3+3575443]
+	GetHandleVerifier [0x00007FF7E3C2B77A+860474]
+	(No symbol) [0x00007FF7E3AD088F]
+	(No symbol) [0x00007FF7E3ACCBC4]
+	(No symbol) [0x00007FF7E3ACCD66]
+	(No symbol) [0x00007FF7E3ABC2C9]
+	BaseThreadInitThunk [0x00007FF85D67259D+29]
+	RtlUserThreadStart [0x00007FF85E60AF38+40]
+
+2025-03-19 16:42:08,376 - INFO - \u2705 Page Source Saved Successfully
+2025-03-19 16:42:10,781 - INFO - \u2705 Browser Closed Successfully

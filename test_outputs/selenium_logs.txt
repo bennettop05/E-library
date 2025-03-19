@@ -1,0 +1,548 @@
+2025-03-19 16:45:35,665 - INFO - Chrome Driver Launched Successfully
+2025-03-19 16:45:38,819 - ERROR - \u274c Test 1 Failed: Alert Text: \u2705 Homepage Loaded Successfully!
+Message: unexpected alert open: {Alert text : \u2705 Homepage Loaded Successfully!}
+  (Session info: chrome=134.0.6998.89)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7E3B5FE45+26629]
+	(No symbol) [0x00007FF7E3AC6010]
+	(No symbol) [0x00007FF7E395931A]
+	(No symbol) [0x00007FF7E3A00E24]
+	(No symbol) [0x00007FF7E39D7883]
+	(No symbol) [0x00007FF7E39A0550]
+	(No symbol) [0x00007FF7E39A1803]
+	GetHandleVerifier [0x00007FF7E3EB72BD+3529853]
+	GetHandleVerifier [0x00007FF7E3ECDA22+3621858]
+	GetHandleVerifier [0x00007FF7E3EC24D3+3575443]
+	GetHandleVerifier [0x00007FF7E3C2B77A+860474]
+	(No symbol) [0x00007FF7E3AD088F]
+	(No symbol) [0x00007FF7E3ACCBC4]
+	(No symbol) [0x00007FF7E3ACCD66]
+	(No symbol) [0x00007FF7E3ABC2C9]
+	BaseThreadInitThunk [0x00007FF85D67259D+29]
+	RtlUserThreadStart [0x00007FF85E60AF38+40]
+
+2025-03-19 16:45:45,625 - ERROR - \u274c Test 2 Failed: Alert Text: \u2705 Book Search Completed! Check Results.
+Message: unexpected alert open: {Alert text : \u2705 Book Search Completed! Check Results.}
+  (Session info: chrome=134.0.6998.89)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7E3B5FE45+26629]
+	(No symbol) [0x00007FF7E3AC6010]
+	(No symbol) [0x00007FF7E395931A]
+	(No symbol) [0x00007FF7E3A00E24]
+	(No symbol) [0x00007FF7E39D7883]
+	(No symbol) [0x00007FF7E39A0550]
+	(No symbol) [0x00007FF7E39A1803]
+	GetHandleVerifier [0x00007FF7E3EB72BD+3529853]
+	GetHandleVerifier [0x00007FF7E3ECDA22+3621858]
+	GetHandleVerifier [0x00007FF7E3EC24D3+3575443]
+	GetHandleVerifier [0x00007FF7E3C2B77A+860474]
+	(No symbol) [0x00007FF7E3AD088F]
+	(No symbol) [0x00007FF7E3ACCBC4]
+	(No symbol) [0x00007FF7E3ACCD66]
+	(No symbol) [0x00007FF7E3ABC2C9]
+	BaseThreadInitThunk [0x00007FF85D67259D+29]
+	RtlUserThreadStart [0x00007FF85E60AF38+40]
+
+2025-03-19 16:45:47,008 - ERROR - \u274c Test 3 Failed: Alert Text: Book borrowed successfully!
+Message: unexpected alert open: {Alert text : Book borrowed successfully!}
+  (Session info: chrome=134.0.6998.89)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7E3B5FE45+26629]
+	(No symbol) [0x00007FF7E3AC6010]
+	(No symbol) [0x00007FF7E395931A]
+	(No symbol) [0x00007FF7E3A00E24]
+	(No symbol) [0x00007FF7E39D7883]
+	(No symbol) [0x00007FF7E39A0550]
+	(No symbol) [0x00007FF7E39A1803]
+	GetHandleVerifier [0x00007FF7E3EB72BD+3529853]
+	GetHandleVerifier [0x00007FF7E3ECDA22+3621858]
+	GetHandleVerifier [0x00007FF7E3EC24D3+3575443]
+	GetHandleVerifier [0x00007FF7E3C2B77A+860474]
+	(No symbol) [0x00007FF7E3AD088F]
+	(No symbol) [0x00007FF7E3ACCBC4]
+	(No symbol) [0x00007FF7E3ACCD66]
+	(No symbol) [0x00007FF7E3ABC2C9]
+	BaseThreadInitThunk [0x00007FF85D67259D+29]
+	RtlUserThreadStart [0x00007FF85E60AF38+40]
+
+2025-03-19 16:45:47,302 - INFO - \U0001f4f8 Screenshot saved: C:/xampp/htdocs/Library_project/images\borrow_error.png
+2025-03-19 16:45:50,421 - ERROR - \u274c Test 4 Failed: Alert Text: \u2705 Borrowed Books Page Loaded Successfully!
+Message: unexpected alert open: {Alert text : \u2705 Borrowed Books Page Loaded Successfully!}
+  (Session info: chrome=134.0.6998.89)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7E3B5FE45+26629]
+	(No symbol) [0x00007FF7E3AC6010]
+	(No symbol) [0x00007FF7E395931A]
+	(No symbol) [0x00007FF7E3A00E24]
+	(No symbol) [0x00007FF7E39D7883]
+	(No symbol) [0x00007FF7E39A0550]
+	(No symbol) [0x00007FF7E39A1803]
+	GetHandleVerifier [0x00007FF7E3EB72BD+3529853]
+	GetHandleVerifier [0x00007FF7E3ECDA22+3621858]
+	GetHandleVerifier [0x00007FF7E3EC24D3+3575443]
+	GetHandleVerifier [0x00007FF7E3C2B77A+860474]
+	(No symbol) [0x00007FF7E3AD088F]
+	(No symbol) [0x00007FF7E3ACCBC4]
+	(No symbol) [0x00007FF7E3ACCD66]
+	(No symbol) [0x00007FF7E3ABC2C9]
+	BaseThreadInitThunk [0x00007FF85D67259D+29]
+	RtlUserThreadStart [0x00007FF85E60AF38+40]
+
+2025-03-19 16:45:51,717 - ERROR - \u274c Test 5 Failed: Alert Text: Book returned successfully!
+Message: unexpected alert open: {Alert text : Book returned successfully!}
+  (Session info: chrome=134.0.6998.89)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7E3B5FE45+26629]
+	(No symbol) [0x00007FF7E3AC6010]
+	(No symbol) [0x00007FF7E395931A]
+	(No symbol) [0x00007FF7E3A00E24]
+	(No symbol) [0x00007FF7E39D7883]
+	(No symbol) [0x00007FF7E39A0550]
+	(No symbol) [0x00007FF7E39A1803]
+	GetHandleVerifier [0x00007FF7E3EB72BD+3529853]
+	GetHandleVerifier [0x00007FF7E3ECDA22+3621858]
+	GetHandleVerifier [0x00007FF7E3EC24D3+3575443]
+	GetHandleVerifier [0x00007FF7E3C2B77A+860474]
+	(No symbol) [0x00007FF7E3AD088F]
+	(No symbol) [0x00007FF7E3ACCBC4]
+	(No symbol) [0x00007FF7E3ACCD66]
+	(No symbol) [0x00007FF7E3ABC2C9]
+	BaseThreadInitThunk [0x00007FF85D67259D+29]
+	RtlUserThreadStart [0x00007FF85E60AF38+40]
+
+2025-03-19 16:45:51,984 - INFO - \U0001f4f8 Screenshot saved: C:/xampp/htdocs/Library_project/images\return_error.png
+2025-03-19 16:45:55,082 - ERROR - \u274c Test 6 Failed: Alert Text: \u26a0\ufe0f Due Date Alert Triggered! Please Return Book.
+Message: unexpected alert open: {Alert text : \u26a0\ufe0f Due Date Alert Triggered! Please Return Book.}
+  (Session info: chrome=134.0.6998.89)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7E3B5FE45+26629]
+	(No symbol) [0x00007FF7E3AC6010]
+	(No symbol) [0x00007FF7E395931A]
+	(No symbol) [0x00007FF7E3A00E24]
+	(No symbol) [0x00007FF7E39D7883]
+	(No symbol) [0x00007FF7E39A0550]
+	(No symbol) [0x00007FF7E39A1803]
+	GetHandleVerifier [0x00007FF7E3EB72BD+3529853]
+	GetHandleVerifier [0x00007FF7E3ECDA22+3621858]
+	GetHandleVerifier [0x00007FF7E3EC24D3+3575443]
+	GetHandleVerifier [0x00007FF7E3C2B77A+860474]
+	(No symbol) [0x00007FF7E3AD088F]
+	(No symbol) [0x00007FF7E3ACCBC4]
+	(No symbol) [0x00007FF7E3ACCD66]
+	(No symbol) [0x00007FF7E3ABC2C9]
+	BaseThreadInitThunk [0x00007FF85D67259D+29]
+	RtlUserThreadStart [0x00007FF85E60AF38+40]
+
+2025-03-19 16:45:55,101 - INFO - \u2705 Page Source Saved at: C:/xampp/htdocs/Library_project/test_outputs\page_source.html
+2025-03-19 16:45:57,476 - INFO - \u2705 Browser Closed Successfully
+2025-03-19 17:00:06,548 - INFO - Chrome Driver Launched Successfully
+2025-03-19 17:00:10,707 - ERROR - \u274c Test 1 Failed: Alert Text: \u2705 Homepage Loaded Successfully!
+Message: unexpected alert open: {Alert text : \u2705 Homepage Loaded Successfully!}
+  (Session info: chrome=134.0.6998.89)
+Stacktrace:
+	GetHandleVerifier [0x00007FF79667FE45+26629]
+	(No symbol) [0x00007FF7965E6010]
+	(No symbol) [0x00007FF79647931A]
+	(No symbol) [0x00007FF796520E24]
+	(No symbol) [0x00007FF7964F7883]
+	(No symbol) [0x00007FF7964C0550]
+	(No symbol) [0x00007FF7964C1803]
+	GetHandleVerifier [0x00007FF7969D72BD+3529853]
+	GetHandleVerifier [0x00007FF7969EDA22+3621858]
+	GetHandleVerifier [0x00007FF7969E24D3+3575443]
+	GetHandleVerifier [0x00007FF79674B77A+860474]
+	(No symbol) [0x00007FF7965F088F]
+	(No symbol) [0x00007FF7965ECBC4]
+	(No symbol) [0x00007FF7965ECD66]
+	(No symbol) [0x00007FF7965DC2C9]
+	BaseThreadInitThunk [0x00007FF85D67259D+29]
+	RtlUserThreadStart [0x00007FF85E60AF38+40]
+
+2025-03-19 17:00:18,225 - ERROR - \u274c Test 2 Failed: Alert Text: \u2705 Book Search Completed! Check Results.
+Message: unexpected alert open: {Alert text : \u2705 Book Search Completed! Check Results.}
+  (Session info: chrome=134.0.6998.89)
+Stacktrace:
+	GetHandleVerifier [0x00007FF79667FE45+26629]
+	(No symbol) [0x00007FF7965E6010]
+	(No symbol) [0x00007FF79647931A]
+	(No symbol) [0x00007FF796520E24]
+	(No symbol) [0x00007FF7964F7883]
+	(No symbol) [0x00007FF7964C0550]
+	(No symbol) [0x00007FF7964C1803]
+	GetHandleVerifier [0x00007FF7969D72BD+3529853]
+	GetHandleVerifier [0x00007FF7969EDA22+3621858]
+	GetHandleVerifier [0x00007FF7969E24D3+3575443]
+	GetHandleVerifier [0x00007FF79674B77A+860474]
+	(No symbol) [0x00007FF7965F088F]
+	(No symbol) [0x00007FF7965ECBC4]
+	(No symbol) [0x00007FF7965ECD66]
+	(No symbol) [0x00007FF7965DC2C9]
+	BaseThreadInitThunk [0x00007FF85D67259D+29]
+	RtlUserThreadStart [0x00007FF85E60AF38+40]
+
+2025-03-19 17:00:19,401 - ERROR - \u274c Test 3 Failed: Alert Text: Book borrowed successfully!
+Message: unexpected alert open: {Alert text : Book borrowed successfully!}
+  (Session info: chrome=134.0.6998.89)
+Stacktrace:
+	GetHandleVerifier [0x00007FF79667FE45+26629]
+	(No symbol) [0x00007FF7965E6010]
+	(No symbol) [0x00007FF79647931A]
+	(No symbol) [0x00007FF796520E24]
+	(No symbol) [0x00007FF7964F7883]
+	(No symbol) [0x00007FF7964C0550]
+	(No symbol) [0x00007FF7964C1803]
+	GetHandleVerifier [0x00007FF7969D72BD+3529853]
+	GetHandleVerifier [0x00007FF7969EDA22+3621858]
+	GetHandleVerifier [0x00007FF7969E24D3+3575443]
+	GetHandleVerifier [0x00007FF79674B77A+860474]
+	(No symbol) [0x00007FF7965F088F]
+	(No symbol) [0x00007FF7965ECBC4]
+	(No symbol) [0x00007FF7965ECD66]
+	(No symbol) [0x00007FF7965DC2C9]
+	BaseThreadInitThunk [0x00007FF85D67259D+29]
+	RtlUserThreadStart [0x00007FF85E60AF38+40]
+
+2025-03-19 17:00:19,556 - INFO - \U0001f4f8 Screenshot saved: C:/xampp/htdocs/Library_project/images\borrow_error.png
+2025-03-19 17:00:23,643 - ERROR - \u274c Test 4 Failed: Alert Text: \u2705 Borrowed Books Page Loaded Successfully!
+Message: unexpected alert open: {Alert text : \u2705 Borrowed Books Page Loaded Successfully!}
+  (Session info: chrome=134.0.6998.89)
+Stacktrace:
+	GetHandleVerifier [0x00007FF79667FE45+26629]
+	(No symbol) [0x00007FF7965E6010]
+	(No symbol) [0x00007FF79647931A]
+	(No symbol) [0x00007FF796520E24]
+	(No symbol) [0x00007FF7964F7883]
+	(No symbol) [0x00007FF7964C0550]
+	(No symbol) [0x00007FF7964C1803]
+	GetHandleVerifier [0x00007FF7969D72BD+3529853]
+	GetHandleVerifier [0x00007FF7969EDA22+3621858]
+	GetHandleVerifier [0x00007FF7969E24D3+3575443]
+	GetHandleVerifier [0x00007FF79674B77A+860474]
+	(No symbol) [0x00007FF7965F088F]
+	(No symbol) [0x00007FF7965ECBC4]
+	(No symbol) [0x00007FF7965ECD66]
+	(No symbol) [0x00007FF7965DC2C9]
+	BaseThreadInitThunk [0x00007FF85D67259D+29]
+	RtlUserThreadStart [0x00007FF85E60AF38+40]
+
+2025-03-19 17:00:24,903 - ERROR - \u274c Test 5 Failed: Alert Text: Book returned successfully!
+Message: unexpected alert open: {Alert text : Book returned successfully!}
+  (Session info: chrome=134.0.6998.89)
+Stacktrace:
+	GetHandleVerifier [0x00007FF79667FE45+26629]
+	(No symbol) [0x00007FF7965E6010]
+	(No symbol) [0x00007FF79647931A]
+	(No symbol) [0x00007FF796520E24]
+	(No symbol) [0x00007FF7964F7883]
+	(No symbol) [0x00007FF7964C0550]
+	(No symbol) [0x00007FF7964C1803]
+	GetHandleVerifier [0x00007FF7969D72BD+3529853]
+	GetHandleVerifier [0x00007FF7969EDA22+3621858]
+	GetHandleVerifier [0x00007FF7969E24D3+3575443]
+	GetHandleVerifier [0x00007FF79674B77A+860474]
+	(No symbol) [0x00007FF7965F088F]
+	(No symbol) [0x00007FF7965ECBC4]
+	(No symbol) [0x00007FF7965ECD66]
+	(No symbol) [0x00007FF7965DC2C9]
+	BaseThreadInitThunk [0x00007FF85D67259D+29]
+	RtlUserThreadStart [0x00007FF85E60AF38+40]
+
+2025-03-19 17:00:25,119 - INFO - \U0001f4f8 Screenshot saved: C:/xampp/htdocs/Library_project/images\return_error.png
+2025-03-19 17:00:29,214 - ERROR - \u274c Test 6 Failed: Alert Text: \u26a0\ufe0f Due Date Alert Triggered! Please Return Book.
+Message: unexpected alert open: {Alert text : \u26a0\ufe0f Due Date Alert Triggered! Please Return Book.}
+  (Session info: chrome=134.0.6998.89)
+Stacktrace:
+	GetHandleVerifier [0x00007FF79667FE45+26629]
+	(No symbol) [0x00007FF7965E6010]
+	(No symbol) [0x00007FF79647931A]
+	(No symbol) [0x00007FF796520E24]
+	(No symbol) [0x00007FF7964F7883]
+	(No symbol) [0x00007FF7964C0550]
+	(No symbol) [0x00007FF7964C1803]
+	GetHandleVerifier [0x00007FF7969D72BD+3529853]
+	GetHandleVerifier [0x00007FF7969EDA22+3621858]
+	GetHandleVerifier [0x00007FF7969E24D3+3575443]
+	GetHandleVerifier [0x00007FF79674B77A+860474]
+	(No symbol) [0x00007FF7965F088F]
+	(No symbol) [0x00007FF7965ECBC4]
+	(No symbol) [0x00007FF7965ECD66]
+	(No symbol) [0x00007FF7965DC2C9]
+	BaseThreadInitThunk [0x00007FF85D67259D+29]
+	RtlUserThreadStart [0x00007FF85E60AF38+40]
+
+2025-03-19 17:00:29,239 - INFO - \u2705 Page Source Saved at: C:/xampp/htdocs/Library_project/test_outputs\page_source.html
+2025-03-19 17:00:31,558 - INFO - \u2705 Browser Closed Successfully
+2025-03-19 17:13:36,757 - INFO - Chrome Driver Launched Successfully
+2025-03-19 17:13:40,907 - ERROR - \u274c Test 1 Failed: Alert Text: \u2705 Homepage Loaded Successfully!
+Message: unexpected alert open: {Alert text : \u2705 Homepage Loaded Successfully!}
+  (Session info: chrome=134.0.6998.89)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7528CFE45+26629]
+	(No symbol) [0x00007FF752836010]
+	(No symbol) [0x00007FF7526C931A]
+	(No symbol) [0x00007FF752770E24]
+	(No symbol) [0x00007FF752747883]
+	(No symbol) [0x00007FF752710550]
+	(No symbol) [0x00007FF752711803]
+	GetHandleVerifier [0x00007FF752C272BD+3529853]
+	GetHandleVerifier [0x00007FF752C3DA22+3621858]
+	GetHandleVerifier [0x00007FF752C324D3+3575443]
+	GetHandleVerifier [0x00007FF75299B77A+860474]
+	(No symbol) [0x00007FF75284088F]
+	(No symbol) [0x00007FF75283CBC4]
+	(No symbol) [0x00007FF75283CD66]
+	(No symbol) [0x00007FF75282C2C9]
+	BaseThreadInitThunk [0x00007FF85D67259D+29]
+	RtlUserThreadStart [0x00007FF85E60AF38+40]
+
+2025-03-19 17:13:48,258 - ERROR - \u274c Test 2 Failed: Alert Text: \u2705 Book Search Completed! Check Results.
+Message: unexpected alert open: {Alert text : \u2705 Book Search Completed! Check Results.}
+  (Session info: chrome=134.0.6998.89)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7528CFE45+26629]
+	(No symbol) [0x00007FF752836010]
+	(No symbol) [0x00007FF7526C931A]
+	(No symbol) [0x00007FF752770E24]
+	(No symbol) [0x00007FF752747883]
+	(No symbol) [0x00007FF752710550]
+	(No symbol) [0x00007FF752711803]
+	GetHandleVerifier [0x00007FF752C272BD+3529853]
+	GetHandleVerifier [0x00007FF752C3DA22+3621858]
+	GetHandleVerifier [0x00007FF752C324D3+3575443]
+	GetHandleVerifier [0x00007FF75299B77A+860474]
+	(No symbol) [0x00007FF75284088F]
+	(No symbol) [0x00007FF75283CBC4]
+	(No symbol) [0x00007FF75283CD66]
+	(No symbol) [0x00007FF75282C2C9]
+	BaseThreadInitThunk [0x00007FF85D67259D+29]
+	RtlUserThreadStart [0x00007FF85E60AF38+40]
+
+2025-03-19 17:13:49,444 - ERROR - \u274c Test 3 Failed: Alert Text: Book borrowed successfully!
+Message: unexpected alert open: {Alert text : Book borrowed successfully!}
+  (Session info: chrome=134.0.6998.89)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7528CFE45+26629]
+	(No symbol) [0x00007FF752836010]
+	(No symbol) [0x00007FF7526C931A]
+	(No symbol) [0x00007FF752770E24]
+	(No symbol) [0x00007FF752747883]
+	(No symbol) [0x00007FF752710550]
+	(No symbol) [0x00007FF752711803]
+	GetHandleVerifier [0x00007FF752C272BD+3529853]
+	GetHandleVerifier [0x00007FF752C3DA22+3621858]
+	GetHandleVerifier [0x00007FF752C324D3+3575443]
+	GetHandleVerifier [0x00007FF75299B77A+860474]
+	(No symbol) [0x00007FF75284088F]
+	(No symbol) [0x00007FF75283CBC4]
+	(No symbol) [0x00007FF75283CD66]
+	(No symbol) [0x00007FF75282C2C9]
+	BaseThreadInitThunk [0x00007FF85D67259D+29]
+	RtlUserThreadStart [0x00007FF85E60AF38+40]
+
+2025-03-19 17:13:49,574 - INFO - \U0001f4f8 Screenshot saved: C:/xampp/htdocs/Library_project/images\borrow_error.png
+2025-03-19 17:13:53,664 - ERROR - \u274c Test 4 Failed: Alert Text: \u2705 Borrowed Books Page Loaded Successfully!
+Message: unexpected alert open: {Alert text : \u2705 Borrowed Books Page Loaded Successfully!}
+  (Session info: chrome=134.0.6998.89)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7528CFE45+26629]
+	(No symbol) [0x00007FF752836010]
+	(No symbol) [0x00007FF7526C931A]
+	(No symbol) [0x00007FF752770E24]
+	(No symbol) [0x00007FF752747883]
+	(No symbol) [0x00007FF752710550]
+	(No symbol) [0x00007FF752711803]
+	GetHandleVerifier [0x00007FF752C272BD+3529853]
+	GetHandleVerifier [0x00007FF752C3DA22+3621858]
+	GetHandleVerifier [0x00007FF752C324D3+3575443]
+	GetHandleVerifier [0x00007FF75299B77A+860474]
+	(No symbol) [0x00007FF75284088F]
+	(No symbol) [0x00007FF75283CBC4]
+	(No symbol) [0x00007FF75283CD66]
+	(No symbol) [0x00007FF75282C2C9]
+	BaseThreadInitThunk [0x00007FF85D67259D+29]
+	RtlUserThreadStart [0x00007FF85E60AF38+40]
+
+2025-03-19 17:13:54,853 - ERROR - \u274c Test 5 Failed: Alert Text: Book returned successfully!
+Message: unexpected alert open: {Alert text : Book returned successfully!}
+  (Session info: chrome=134.0.6998.89)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7528CFE45+26629]
+	(No symbol) [0x00007FF752836010]
+	(No symbol) [0x00007FF7526C931A]
+	(No symbol) [0x00007FF752770E24]
+	(No symbol) [0x00007FF752747883]
+	(No symbol) [0x00007FF752710550]
+	(No symbol) [0x00007FF752711803]
+	GetHandleVerifier [0x00007FF752C272BD+3529853]
+	GetHandleVerifier [0x00007FF752C3DA22+3621858]
+	GetHandleVerifier [0x00007FF752C324D3+3575443]
+	GetHandleVerifier [0x00007FF75299B77A+860474]
+	(No symbol) [0x00007FF75284088F]
+	(No symbol) [0x00007FF75283CBC4]
+	(No symbol) [0x00007FF75283CD66]
+	(No symbol) [0x00007FF75282C2C9]
+	BaseThreadInitThunk [0x00007FF85D67259D+29]
+	RtlUserThreadStart [0x00007FF85E60AF38+40]
+
+2025-03-19 17:13:55,064 - INFO - \U0001f4f8 Screenshot saved: C:/xampp/htdocs/Library_project/images\return_error.png
+2025-03-19 17:13:59,133 - ERROR - \u274c Test 6 Failed: Alert Text: \u26a0\ufe0f Due Date Alert Triggered! Please Return Book.
+Message: unexpected alert open: {Alert text : \u26a0\ufe0f Due Date Alert Triggered! Please Return Book.}
+  (Session info: chrome=134.0.6998.89)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7528CFE45+26629]
+	(No symbol) [0x00007FF752836010]
+	(No symbol) [0x00007FF7526C931A]
+	(No symbol) [0x00007FF752770E24]
+	(No symbol) [0x00007FF752747883]
+	(No symbol) [0x00007FF752710550]
+	(No symbol) [0x00007FF752711803]
+	GetHandleVerifier [0x00007FF752C272BD+3529853]
+	GetHandleVerifier [0x00007FF752C3DA22+3621858]
+	GetHandleVerifier [0x00007FF752C324D3+3575443]
+	GetHandleVerifier [0x00007FF75299B77A+860474]
+	(No symbol) [0x00007FF75284088F]
+	(No symbol) [0x00007FF75283CBC4]
+	(No symbol) [0x00007FF75283CD66]
+	(No symbol) [0x00007FF75282C2C9]
+	BaseThreadInitThunk [0x00007FF85D67259D+29]
+	RtlUserThreadStart [0x00007FF85E60AF38+40]
+
+2025-03-19 17:13:59,154 - INFO - \u2705 Page Source Saved at: C:/xampp/htdocs/Library_project/test_outputs\page_source.html
+2025-03-19 17:14:01,471 - INFO - \u2705 Browser Closed Successfully
+2025-03-19 17:28:13,555 - INFO - Chrome Driver Launched Successfully
+2025-03-19 17:28:17,690 - ERROR - \u274c Test 1 Failed: Alert Text: \u2705 Homepage Loaded Successfully!
+Message: unexpected alert open: {Alert text : \u2705 Homepage Loaded Successfully!}
+  (Session info: chrome=134.0.6998.89)
+Stacktrace:
+	GetHandleVerifier [0x00007FF61404FE45+26629]
+	(No symbol) [0x00007FF613FB6010]
+	(No symbol) [0x00007FF613E4931A]
+	(No symbol) [0x00007FF613EF0E24]
+	(No symbol) [0x00007FF613EC7883]
+	(No symbol) [0x00007FF613E90550]
+	(No symbol) [0x00007FF613E91803]
+	GetHandleVerifier [0x00007FF6143A72BD+3529853]
+	GetHandleVerifier [0x00007FF6143BDA22+3621858]
+	GetHandleVerifier [0x00007FF6143B24D3+3575443]
+	GetHandleVerifier [0x00007FF61411B77A+860474]
+	(No symbol) [0x00007FF613FC088F]
+	(No symbol) [0x00007FF613FBCBC4]
+	(No symbol) [0x00007FF613FBCD66]
+	(No symbol) [0x00007FF613FAC2C9]
+	BaseThreadInitThunk [0x00007FF85D67259D+29]
+	RtlUserThreadStart [0x00007FF85E60AF38+40]
+
+2025-03-19 17:28:25,069 - ERROR - \u274c Test 2 Failed: Alert Text: \u2705 Book Search Completed! Check Results.
+Message: unexpected alert open: {Alert text : \u2705 Book Search Completed! Check Results.}
+  (Session info: chrome=134.0.6998.89)
+Stacktrace:
+	GetHandleVerifier [0x00007FF61404FE45+26629]
+	(No symbol) [0x00007FF613FB6010]
+	(No symbol) [0x00007FF613E4931A]
+	(No symbol) [0x00007FF613EF0E24]
+	(No symbol) [0x00007FF613EC7883]
+	(No symbol) [0x00007FF613E90550]
+	(No symbol) [0x00007FF613E91803]
+	GetHandleVerifier [0x00007FF6143A72BD+3529853]
+	GetHandleVerifier [0x00007FF6143BDA22+3621858]
+	GetHandleVerifier [0x00007FF6143B24D3+3575443]
+	GetHandleVerifier [0x00007FF61411B77A+860474]
+	(No symbol) [0x00007FF613FC088F]
+	(No symbol) [0x00007FF613FBCBC4]
+	(No symbol) [0x00007FF613FBCD66]
+	(No symbol) [0x00007FF613FAC2C9]
+	BaseThreadInitThunk [0x00007FF85D67259D+29]
+	RtlUserThreadStart [0x00007FF85E60AF38+40]
+
+2025-03-19 17:28:26,351 - ERROR - \u274c Test 3 Failed: Alert Text: Book borrowed successfully!
+Message: unexpected alert open: {Alert text : Book borrowed successfully!}
+  (Session info: chrome=134.0.6998.89)
+Stacktrace:
+	GetHandleVerifier [0x00007FF61404FE45+26629]
+	(No symbol) [0x00007FF613FB6010]
+	(No symbol) [0x00007FF613E4931A]
+	(No symbol) [0x00007FF613EF0E24]
+	(No symbol) [0x00007FF613EC7883]
+	(No symbol) [0x00007FF613E90550]
+	(No symbol) [0x00007FF613E91803]
+	GetHandleVerifier [0x00007FF6143A72BD+3529853]
+	GetHandleVerifier [0x00007FF6143BDA22+3621858]
+	GetHandleVerifier [0x00007FF6143B24D3+3575443]
+	GetHandleVerifier [0x00007FF61411B77A+860474]
+	(No symbol) [0x00007FF613FC088F]
+	(No symbol) [0x00007FF613FBCBC4]
+	(No symbol) [0x00007FF613FBCD66]
+	(No symbol) [0x00007FF613FAC2C9]
+	BaseThreadInitThunk [0x00007FF85D67259D+29]
+	RtlUserThreadStart [0x00007FF85E60AF38+40]
+
+2025-03-19 17:28:26,583 - INFO - \U0001f4f8 Screenshot saved: C:/xampp/htdocs/Library_project/images\borrow_error.png
+2025-03-19 17:28:30,675 - ERROR - \u274c Test 4 Failed: Alert Text: \u2705 Borrowed Books Page Loaded Successfully!
+Message: unexpected alert open: {Alert text : \u2705 Borrowed Books Page Loaded Successfully!}
+  (Session info: chrome=134.0.6998.89)
+Stacktrace:
+	GetHandleVerifier [0x00007FF61404FE45+26629]
+	(No symbol) [0x00007FF613FB6010]
+	(No symbol) [0x00007FF613E4931A]
+	(No symbol) [0x00007FF613EF0E24]
+	(No symbol) [0x00007FF613EC7883]
+	(No symbol) [0x00007FF613E90550]
+	(No symbol) [0x00007FF613E91803]
+	GetHandleVerifier [0x00007FF6143A72BD+3529853]
+	GetHandleVerifier [0x00007FF6143BDA22+3621858]
+	GetHandleVerifier [0x00007FF6143B24D3+3575443]
+	GetHandleVerifier [0x00007FF61411B77A+860474]
+	(No symbol) [0x00007FF613FC088F]
+	(No symbol) [0x00007FF613FBCBC4]
+	(No symbol) [0x00007FF613FBCD66]
+	(No symbol) [0x00007FF613FAC2C9]
+	BaseThreadInitThunk [0x00007FF85D67259D+29]
+	RtlUserThreadStart [0x00007FF85E60AF38+40]
+
+2025-03-19 17:28:31,785 - ERROR - \u274c Test 5 Failed: Alert Text: Book returned successfully!
+Message: unexpected alert open: {Alert text : Book returned successfully!}
+  (Session info: chrome=134.0.6998.89)
+Stacktrace:
+	GetHandleVerifier [0x00007FF61404FE45+26629]
+	(No symbol) [0x00007FF613FB6010]
+	(No symbol) [0x00007FF613E4931A]
+	(No symbol) [0x00007FF613EF0E24]
+	(No symbol) [0x00007FF613EC7883]
+	(No symbol) [0x00007FF613E90550]
+	(No symbol) [0x00007FF613E91803]
+	GetHandleVerifier [0x00007FF6143A72BD+3529853]
+	GetHandleVerifier [0x00007FF6143BDA22+3621858]
+	GetHandleVerifier [0x00007FF6143B24D3+3575443]
+	GetHandleVerifier [0x00007FF61411B77A+860474]
+	(No symbol) [0x00007FF613FC088F]
+	(No symbol) [0x00007FF613FBCBC4]
+	(No symbol) [0x00007FF613FBCD66]
+	(No symbol) [0x00007FF613FAC2C9]
+	BaseThreadInitThunk [0x00007FF85D67259D+29]
+	RtlUserThreadStart [0x00007FF85E60AF38+40]
+
+2025-03-19 17:28:31,889 - INFO - \U0001f4f8 Screenshot saved: C:/xampp/htdocs/Library_project/images\return_error.png
+2025-03-19 17:28:35,972 - ERROR - \u274c Test 6 Failed: Alert Text: \u26a0\ufe0f Due Date Alert Triggered! Please Return Book.
+Message: unexpected alert open: {Alert text : \u26a0\ufe0f Due Date Alert Triggered! Please Return Book.}
+  (Session info: chrome=134.0.6998.89)
+Stacktrace:
+	GetHandleVerifier [0x00007FF61404FE45+26629]
+	(No symbol) [0x00007FF613FB6010]
+	(No symbol) [0x00007FF613E4931A]
+	(No symbol) [0x00007FF613EF0E24]
+	(No symbol) [0x00007FF613EC7883]
+	(No symbol) [0x00007FF613E90550]
+	(No symbol) [0x00007FF613E91803]
+	GetHandleVerifier [0x00007FF6143A72BD+3529853]
+	GetHandleVerifier [0x00007FF6143BDA22+3621858]
+	GetHandleVerifier [0x00007FF6143B24D3+3575443]
+	GetHandleVerifier [0x00007FF61411B77A+860474]
+	(No symbol) [0x00007FF613FC088F]
+	(No symbol) [0x00007FF613FBCBC4]
+	(No symbol) [0x00007FF613FBCD66]
+	(No symbol) [0x00007FF613FAC2C9]
+	BaseThreadInitThunk [0x00007FF85D67259D+29]
+	RtlUserThreadStart [0x00007FF85E60AF38+40]
+
+2025-03-19 17:28:35,994 - INFO - \u2705 Page Source Saved at: C:/xampp/htdocs/Library_project/test_outputs\page_source.html
+2025-03-19 17:28:38,319 - INFO - \u2705 Browser Closed Successfully
