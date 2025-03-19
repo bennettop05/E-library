@@ -1,0 +1,26 @@
+<?php include 'includes/checkLogin.php'; ?>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard - Library Management</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Search and Borrow Books</h1>
+        <input type="text" id="searchBar" placeholder="Search by title, author, or genre">
+        <button onclick="searchBooks()">Search</button>
+        
+        <div id="bookList">
+            <!-- Books will be dynamically loaded here -->
+        </div>
+        <a href="mybooks.html">View My Borrowed Books</a>
+        <a href="index.html">Logout</a>
+    </div>
+
+    <script src="js/script.js"></script>
+</body>
+</html>
